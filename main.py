@@ -1,4 +1,9 @@
-"""1) Escribir una clase llamada Rectángulo que contenga una base y una altura, y que contenga un método que devuelva el área del rectángulo."""
+"""
+Tp Nº7
+Alumno: Federico Casoni - sabados presencial
+
+
+1) Escribir una clase llamada Rectángulo que contenga una base y una altura, y que contenga un método que devuelva el área del rectángulo."""
 
 class Rectangulo:
     
